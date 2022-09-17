@@ -1,2 +1,2 @@
 # car
-A landing Page for Car with my responsive lazy image load script
+A landing Page for  Car Garage with my responsive lazy image load script.
